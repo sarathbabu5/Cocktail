@@ -280,7 +280,7 @@ PROJECT CSS
 =============
 */
 .page {
-  backgroundcolor: black;
+  background-color: black;
   width: var(--view-width);
   max-width: var(--max-width);
   margin: 0 auto;
